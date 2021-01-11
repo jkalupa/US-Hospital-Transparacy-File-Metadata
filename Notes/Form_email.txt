@@ -1,0 +1,9 @@
+Subject: 2021 Pricing Transparency File
+
+Msg:
+Hi <hospital or system> Staff,
+
+I'm a software developer studying US healthcare pricing and I'm looking for the location of your machine readable file of procedures and payer negotiated rates, as described in 45 CFR § 180.40 (a). Where is this hosted on your site?
+
+Thanks,
+John
